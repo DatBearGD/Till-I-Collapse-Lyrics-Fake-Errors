@@ -3,3 +3,5 @@ a small project i made. just fake errors witht the lyrics to Till I Collapse By 
 Press ok to go to the next lyric line.
 Each error box is 1 line of the song.
 This is what it should look like: https://www.youtube.com/watch?v=U09fo-_zVVM&t=31s
+
+EDIT: I forgot to mention this is a .vbs file. I made this in notepad. My first attempts at code.
